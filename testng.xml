@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test-Automation-Assignment" verbose="1">
+  <test name="Tests">
+    <classes>
+     	<class name="com.theothermattm.goal.domain.qe.tests.InitialSystemTest" />
+ 	 	<class name="com.theothermattm.goal.domain.qe.tests.TestAddGoal" />
+ 		<class name="com.theothermattm.goal.domain.qe.tests.TestGetGoals" />
+    </classes>
+  </test>
+</suite>
