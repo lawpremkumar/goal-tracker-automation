@@ -18,7 +18,7 @@ To Run the test suite
 clone https://github.com/lawpremkumar/goal-tracker-automation.git
 
 To run the test suite locally
-mvn test -Dhost=localhost:8080 (Right now http:// is taken care by the test suite ).
+	mvn test -Dhost=localhost:8080 (Right now http:// is taken care by the test suite ).
 
 Note : To run the test suite make sure you are running the application
 
